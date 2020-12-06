@@ -25,6 +25,7 @@ public class First {
         //2_3  10-2*2=6
         //2_4  12+12-4*2=16
 
+
         System.out.println("exercise2_1 - " + "2+2*2=6");
         System.out.println("exercise2_2 - " + "(2+2)*2=8");
         System.out.println("exercise2_3 - " + "10-2*2=6");
